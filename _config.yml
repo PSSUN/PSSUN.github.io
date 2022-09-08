@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Sun Peisen's blog
 
 # Your name to show in the footer
 author: Sun Peisen
@@ -22,9 +22,10 @@ author: Sun Peisen
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Google: "https://google.com"
+    - Baidu: "https://www.baidu.com/"
+    - Hupu: "https://www.hupu.com/"
+  Author's home: "https://pssun.github.io/"
 
 ################
 # --- Logo --- #
@@ -49,11 +50,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  email: "839101770@qq.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: pssun
+  twitter: sun_python
   patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
@@ -71,8 +72,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ ORCID: your ORCID ID
+ google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
