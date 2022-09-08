@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Sun Peisen's blog
+title: Peisen's blog
 
 # Your name to show in the footer
 author: Sun Peisen
@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "839101770@qq.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  facebook: deanattali
   github: pssun
   twitter: sun_python
-  patreon: DeanAttali
-  youtube: c/daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -72,8 +72,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
- ORCID: your ORCID ID
- google-scholar: your google scholar
+  ORCID: 0000-0003-0796-2133
+  google-scholar: citations?hl=zh-CN&user=MtCpY1sAAAAJ
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
