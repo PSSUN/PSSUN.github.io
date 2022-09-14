@@ -51,10 +51,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "839101770@qq.com"
-#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
   github: pssun
   twitter: sun_python
+  ORCID: 0000-0003-0796-2133
+  google-scholar: citations?hl=zh-CN&user=MtCpY1sAAAAJ
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -72,8 +74,6 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0003-0796-2133
-  google-scholar: citations?hl=zh-CN&user=MtCpY1sAAAAJ
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -98,7 +98,7 @@ share-links-active:
 url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 60
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
