@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Ph.D. in Control Science and Engineering
+subtitle: Computaional Biology
 ---
 
 Peisen Sun (孙培森)
 
-Bioinformatics | Genomics | Single-cell & Spatial omics algorithm
-
 ### Education
  - **Ph.D.** in Xi'an Jiaotong University, school of Automation Science and Engineering.  
  - **B.S.** in Northwest A&F University, College of Innovation and Experimentation.
+
+### Focus on
+Bioinformatics / Genomics / Single-cell & Spatial omics algorithm
 
 ### Selected publications
 [1] **Sun P**, Bush S J, Wang S, et al. STMiner: Gene-centric spatial transcriptomics for deciphering tumor tissues[J]. Cell Genomics, 2025, 5(2).  
