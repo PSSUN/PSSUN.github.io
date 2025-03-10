@@ -7,8 +7,8 @@ subtitle: Computaional Biology
 ## Peisen Sun (孙培森)
 
 ### Education  
- - **Ph.D.** in Xi'an Jiaotong University, school of Automation Science and Engineering.  
- - **B.S.** in Northwest A&F University, College of Innovation and Experimentation.
+ - **Ph.D.** in Xi'an Jiaotong University, School of Automation Science and Engineering.  
+ - **B.S.** in Northwest A&F University, College of Innovation and Experiment.
 
 ### Focus on
 Bioinformatics / Genomics / Single-cell & Spatial omics algorithm
