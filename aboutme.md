@@ -5,7 +5,8 @@ subtitle: Phd Student in Control Science and Engineering
 ---
 
 ## 👨🏻‍🔬 Peisen Sun (孙培森)
-I was born in Shaanxi Province, China, and have worked as a software engineer. During my undergraduate studies, I focused on the identification and analysis of genomic coding sequences, while in graduate school, I engaged in algorithm development related to multi-omics. I welcome exchanges with people from different fields.  
+I was born in Shaanxi Province, China, and have worked as a software engineer. During my undergraduate studies, I focused on the identification and analysis of genomic coding sequences, while in graduate school, I engaged in algorithm development related to multi-omics. I welcome exchanges with people from different fields. 
+<br>
 Outside of work, my hobbies include fitness, cycling, and playing video games (in Age of Empires IV, I specialize in using the Chinese, Ottoman, and Knights Templar factions).
 
 ### 🎓 Education  
