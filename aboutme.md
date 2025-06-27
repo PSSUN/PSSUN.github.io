@@ -1,10 +1,12 @@
 ---
 layout: home
 title: About me
-subtitle: Computaional Biology
+subtitle: Phd Student in Control Science and Engineering
 ---
 
 ## Peisen Sun (孙培森)
+
+
 
 ### Education  
  - **Ph.D.** in Xi'an Jiaotong University, School of Automation Science and Engineering.  
